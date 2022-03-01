@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The addresse of Don Alfonso de Cardenas Lord Ambassadour for the King of Spain, to the Parliament of the Common-wealth of England, as also a true accompt of the totall overthrow of Prince Ruperts fleet by General Blake at Carthagena in the Medeterranian Sea.</title>
+            <author>Cardenas, Alonso de.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02254</idno>
+            <idno type="STC">Wing C495A</idno>
+            <idno type="STC">ESTC R173389</idno>
+            <idno type="EEBO-CITATION">51617746</idno>
+            <idno type="OCLC">ocm 51617746</idno>
+            <idno type="VID">175163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175163)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2718:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The addresse of Don Alfonso de Cardenas Lord Ambassadour for the King of Spain, to the Parliament of the Common-wealth of England, as also a true accompt of the totall overthrow of Prince Ruperts fleet by General Blake at Carthagena in the Medeterranian Sea.</title>
+                  <author>Cardenas, Alonso de.</author>
+                  <author>Saltonstall, Charles, fl. 1642. More particular and full accompt of the overthrow of P. Ruperts fleet, from a commander of one of the States ships under Generall Blake.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Evan Tyler,</publisher>
+                  <pubPlace>Printed at Edinburgh :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Alfonso de Cardenas is Alonso de Cardenas, Spanish ambassador.</note>
+                  <note>P. [8] contains: Saltonstall, Charles. A more particular and full accompt of the overthrow of P. Ruperts fleet, from a commander of one of the States ships under Generall Blake.</note>
+                  <note>Imperfect: faded print with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Franco-Spanish War, 1635-1659 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175163:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:175163:1"/>
+            <!-- PDF PAGE 25 -->
+            <p>THE ADDRESSE OF <hi>Don Alfonſo de Cardenas</hi> Lord Ambaſſadour for the King of SPAIN TO THE PARLIAMENT OF THE <hi>COMMON-WEALTH</hi> OF ENGLAND, As alſo a true ACCOMPT OF THE Totall Overthrow of Prince <hi>Ru<g ref="char:EOLhyphen"/>perts</hi> Fleet by General <hi>Blake</hi> at <hi>Carthagena</hi> in the <hi>Medeterranian</hi> Sea.</p>
+            <p>Pri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted is <hi>Edinburgh</hi> by <hi>
+                  <unclear>Evan Tyler</unclear>,</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:175163:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="3" facs="tcp:175163:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>THE SPEECH OF THE Lord Ambaſſadour of <hi>Spain,</hi> to the Parliament on <date>
+                  <hi>Thurſday, the</hi> 26. of <hi>December,</hi> 1650.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He King, my Maſter, being deſirous to ſhew to the World how great is the Affection, and Good will, with which on his part hath alwayes been continued a ſincere and ſecure Friend ſhip with the <hi>Engliſh</hi> Nation, and to give hereof a royall and conchad<g ref="char:EOLunhyphen"/>ing proof; It hath ſeemed good unto him to quallifie for the acknowledging this State, whoſe Authority and Soveraignty reſides in this Parliament of the Common-Wealth of <hi>England,</hi> and to write by way of Credence on my behalf, this Letter the which I here preſent.</p>
+            <p>And his Catholique Majeſty being the Greateſt and Firſt King of Chriſtendom, hath thought fit to oblige this Common Weal<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, by being alſo the Firſt, who ſhould make this Acknowledgement by me his Ambaſſadour, and quallified to this effect, being moved hereunto, only out of good will, which in <hi>Spain</hi> hath ever been con<g ref="char:EOLhyphen"/>ſerved toward this Nation, and out of a naturall pro<g ref="char:EOLhyphen"/>penſion, whereunto his royall minde inclines him, to continue, eſtabliſh, and Cloſe up a good Friend-ſhip with this Common-Wealth.</p>
+            <p>And I have ſpeciall Order from the King, my Maſter, to declare as from him, the lively reſentment, that un<g ref="char:EOLhyphen"/>happy
+<pb n="4" facs="tcp:175163:3"/>
+               <!-- PDF PAGE 27 -->Accident of <hi>Anthony Aſcha<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Reſident of this Common-Wealth <gap reason="illegible: bleedthrough" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ed him <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and to lay open what his Majeſty hath done in proſecution of the Cauſe, againſt thoſe who were guilty of his Death, in which they have proceeded on the part of his Majeſty and his Mi<g ref="char:EOLhyphen"/>niſters to do, not obely all that the Lawes and Cuſtoms of thoſe Kingdoms permits to be done in the like Caſes, but have alſo exceeded by thoſe particalar demonſtrati<g ref="char:EOLhyphen"/>ons and diligence they have uſed, as well with the Ec<g ref="char:EOLhyphen"/>cleſiaſticall Judge, to make him declare in point of Ap<g ref="char:EOLhyphen"/>peal, they are not to enjoy the benefit of the Church; as with the Seculat, to the end nothing may be omitted in execution of the Chaſtiſement, which the higheſt rigour of Juſtice permits; And he will not draw off his Hand un<g ref="char:EOLhyphen"/>till he bring the buſineſſe to an End, for which reaſon, ſo much care is had of their Perſons, that being as they are in a Common Gaole, he hath herein for greater Se<g ref="char:EOLhyphen"/>curity, put Guard upon them: In all which, and what is doing, I doubt not but it will be ſhortly declared, that the Caſe could not be preſſed more, if the dead Perſon <gap reason="illegible: missing" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e a Prince, Heire to the Crown of <hi>Spain;</hi> All which <gap reason="illegible: missing" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ht to aſſure the Parliament of the Care and Appli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>on had to give it full ſatisfaction in this point, as is <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſired may be given in whatſoever elſe ſhall hap<g ref="char:EOLhyphen"/>pen; An which are Effects of a ſecure Friendſhip and good Correſpondence, ſuch hath been the entertainment and Shelter, which in the Havens of <hi>Spain,</hi> was given to the Ships of the Navy of this Common-Wealth; The which ſhall be continued with that fidelity, they have hitherto found in all his Majeſties Havens: where he hath alſo given Order, that neither Prince <hi>Rupert</hi> nor his Ships be admitted, for having failed at <hi>Veles Malaga</hi> in point of that reverence and reſpect due to his Majeſties Standard, the which ſet up in the Fort and Caſtle gave ſecurity to the <hi>Engliſh</hi> Merchant Ships, as the Parlia<g ref="char:EOLhyphen"/>ment will underſtand more at large by the Relation which was ſent me, and I have thought fit to Com<g ref="char:EOLhyphen"/>municate.</p>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:175163:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>The King of <hi>Spains</hi> Letter to the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">P</seg>ARLIAMENT OF THE COM<g ref="char:EOLhyphen"/>MON-WEALTH OF ENGLAND.</salute>
+            </opener>
+            <p>We have received three Letters, not at the ſame, but at ſeverall times from you; the one whereof gave Credit to <hi>Anthony Aſcham,</hi> whom you nominated your Reſident in this our Court; the other came unto Us by means of <hi>Robert Blake</hi> Admirall of your Fleet<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lately, the third was ſent by <hi>Don Alfonſo de Car<g ref="char:EOLhyphen"/>denas</hi> our Ambaſſador there: Wherein you grieve at the <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>expected Accident of the aforeſaid Reſident, and with<g ref="char:EOLhyphen"/>all earneſtly entreat, that ſuch as have committed the Fact be puniſhed: Certainly you will have clearly underſtood from our Ambaſſador (and the ſame do I again command him to make known unto you) how much that Accident did diſpleaſe Us, and ſo he will further lay open unto you what We have thereupon Commanded to be done, leaſt ſuch a like Accident unpuniſhed, may prove a future bad Example: And when as the ſaid <hi>Don Alfonſo de Carde<g ref="char:EOLhyphen"/>nas</hi> ſhall have manifeſted unto you more at large this our minde, nothing will remain to be ſaid, whereby to Im<g ref="char:EOLhyphen"/>print in you an Aſſurance of this Affection of our Will, with wh<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch we will take a Care of whatſoever may con<g ref="char:EOLhyphen"/>cern you: And for this reaſon your Admirall, Souldiers, and Ships have found, and ſhall hereafter finde that ſhel<g ref="char:EOLhyphen"/>ter in our Havens which is fit, and we Commanded to be given unto them: Concerning which and whatſoever elſe ſhall occur to be ſaid, We deſire you to give entire Credit unto the aforeſaid <hi>Don Alfonſo de Cardenas</hi> reſting ſe<g ref="char:EOLhyphen"/>cure of our good Will, and moſt certain Friendſhip.</p>
+            <closer>
+               <dateline>Given at <hi>Madrid,</hi> 
+                  <date>2. December 1650.</date>
+               </dateline>
+               <lb/>
+               <signed>Philip.</signed>
+            </closer>
+         </div>
+         <div type="account_of_sea_battle">
+            <pb n="6" facs="tcp:175163:4"/>
+            <!-- PDF PAGE 28 -->
+            <head>A true Accompt of the totall Over<g ref="char:EOLhyphen"/>throw of Prince <hi>Ruperts</hi> Fleet by General <hi>Blake</hi> at <hi>Cartha<g ref="char:EOLhyphen"/>gena</hi> in the <hi>Mediterranean</hi> Sea.</head>
+            <p>TOuching the advice you have of Prince <hi>Ruperts</hi> being in the <hi>Streights</hi> it is very certain; for about twenty dayes paſt, Prince <hi>Maurice</hi> his Brother arrived at <hi>Thollone</hi> with the <hi>Marmaduke,</hi> which they took coming from <hi>Ruſsia,</hi> he left Prince <hi>Rupert</hi> by him<g ref="char:EOLhyphen"/>ſelf off <hi>Mayork,</hi> having loſt the reſt of the Fleet <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Cape Sagat;</hi> they were in all ſeven Ships, and intended for <hi>Thollone,</hi> but ſince Prince <hi>Maurice</hi> his arrival, al<g ref="char:EOLhyphen"/>though the reſt have been daily expected, yet no news of them, which makes them begin to doubt what is become of them, and indeed not without ſome reaſon, although they know nothing of it: For two dayes paſt here arri<g ref="char:EOLhyphen"/>ved a bark from <hi>Genoah,</hi> who brings news of a great Fight that hath been about <hi>Cape Sagat</hi> between the Eng<g ref="char:EOLhyphen"/>liſh Frigots and Prince <hi>Ruperts;</hi> they report of ſix Ships ſunke and one taken, but of which ſide not yet known, that they have met it is moſt certain: From <hi>Barcelona</hi> this laſt Poſt came advice of fifteent Parliament Ships that were arrived at <hi>Carthagena,</hi> and that they had fought with Prince <hi>Rupert,</hi> and ſunke the Admirall and Vice Admiral, of which we expect to hear further by a Ship that <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to come in hourly from Allegant.</p>
+            <p>At this day inſtant is come newes for certain that Prince <hi>Ruperts</hi> Fleet, was at or neer <hi>Carthagena,</hi> where they fell upon them, and have ſunk, burnt and taken them all; whether the Prince himſelf in Perſon be amongſt them it is
+<pb n="7" facs="tcp:175163:4"/>
+               <!-- PDF PAGE 28 -->not known, but here is no newes of him, and therefore do believe he is with the reſt.</p>
+            <p>Prince <hi>Maurice</hi> is left in the <hi>Swallow</hi> 11 <hi>Thollone,</hi> who intended for <hi>Villa Franke,</hi> and not to go forth any more; and therefore now we hope there will be leſs dan<g ref="char:EOLhyphen"/>ger for poor Merchants Ships then before<g ref="char:punc">▪</g> For the French there is onely two Ships abroad, and no news of them, ſo it is thought the Engliſh Ships have alſo met with them: There are four or five more that are Arming at <hi>Thollone,</hi> but cannot be ready this ſix weeks or two moneths, and when they ſhall have beard what is be<g ref="char:EOLhyphen"/>come of their Aſſociates, I beleeve they will give over their deſigne, knowing General <hi>Blake</hi> to be ſo neer them. Prince <hi>Maurice</hi> attempted to take the <hi>Daniel</hi> of <hi>London</hi> going into the Ports of <hi>Thollone,</hi> but the People of the Country hindred him, and told him plainly, that he ſhould not think to ſpoil the Trade of the Country.</p>
+            <closer>
+               <dateline>Marcellia <date>December 20. 1650.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="account_of_sea_battle">
+            <pb facs="tcp:175163:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <head>A more particular and full <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of P. <hi>Ruperts</hi> Fleet, from <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Commander of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the States Ships under Generall B<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke.</head>
+            <p>SInce the ſending home of the Sugar Pri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es taken <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Portugall,</hi> with Captain <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> our R<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Admi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the return of General <hi>Potham;</hi> there were remaining <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th us of the Parliam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts Ships ſeven S<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>, <hi>viz.</hi> The <hi>Leopard, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Evoc<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tion El<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>abeth, Phenix,</hi> and <hi>Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an. Warwick:</hi> On the 26. of <hi>October,</hi> we took near the <hi>Streights</hi> mouth one of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King of <hi>Frances</hi> men of War with <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. br<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs Guns. Th<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had intelligence that Prince <hi>Rupert</hi> with h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s two dayes ſince before <hi>Ma<g ref="char:EOLhyphen"/>liga:</hi> The thirt<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th of <hi>O<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ber</hi> we came to <hi>Maliga,</hi> and there heard th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> toward <hi>Allegant,</hi> and had burnt four E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gliſh Ships at <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Malliga</hi> and thereabouts; we ſtaid not two hours but made after him. The 2. of <hi>November,</hi> be<g ref="char:EOLhyphen"/>tween <hi>Cape Sagat</hi> and <hi>Cape de Paulo</hi> we took another French <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith <unclear>20</unclear> Guns: The <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vve took the <hi>Rowbuck</hi> one of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Cape de Paulo,</hi> being a Ship of 24. Guns. The 4 of <hi>November,</hi> the <hi>John</hi> of our Fleet being ready to lay aboard the <hi>Black Prince</hi> of P. <hi>Ruperts</hi> Fleet, being a Ship of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. Guns ſhe run aſhore 3. leagues to the Eaſt of <hi>Carthagena,</hi> and there <unclear>fired</unclear> and blew up her ſelf. The <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of <hi>November,</hi> four more of <hi>Ruperts</hi> Ships run aſhore in the Bay of <hi>Carthagena</hi> for fear of our Ships, and there are all caſt away and bilged, having not a Maſt ſtanding. The 9. of <hi>November</hi> Generall <hi>Blake</hi> ſet ſail to ſeek for the remainds of <hi>Ruperts</hi> Fleet, being now only two Ships, <hi>viz</hi> The <hi>Swallow</hi> and the <hi>Reformation</hi> and left me in the Bay of <hi>Carthagena</hi> with the <hi>John</hi> and two F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nch Prizes to attend the K. of <hi>Spains</hi> Anſwer, concerning the Guns, Ammunition, &amp;c. belonging to thoſe of <hi>Ruperts</hi> Ships that run aſhore. This day the Viceroy of <hi>Murcia</hi> was aboard the <hi>John,</hi> and ſignified to me, that I ſhould have all that could be ſaved, for the uſe of the Common-wealth of <hi>England.</hi> The King of <hi>Spain</hi> h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th alſo written a Letter to our Gener<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: missing" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ſpect to him and our Fleet.</p>
+            <closer>
+               <signed>
+                  <hi>Charles Sal<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>From <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </postscript>
+            <pb facs="tcp:175163:5"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:175163:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:175163:6"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
